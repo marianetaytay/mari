@@ -1,0 +1,33 @@
+function setup() {
+  createCanvas(600, 600);
+  blackground("black");
+}
+
+ function draw() []
+ stroke ("blue");
+ fill("red")
+
+if(mouseIsPressed) {}
+rect(mouseX, mouseY, 20, 35);
+function setup() {
+2
+  createCanvas(600, 600);
+3
+  blackground("black");
+4
+}
+5
+​
+6
+function draw() 
+7
+stroke ("blue");
+8
+fill("red")
+9
+​
+10
+if(mouseIsPressed) {}
+11
+rect(mouseX, mouseY, 20, 35);
+12
